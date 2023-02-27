@@ -1,0 +1,309 @@
+.welcome{
+    color:rgba(255, 255, 255, 0.89);
+    background: radial-gradient(rgb(0, 165, 165),rgba(21, 255, 204, 0.507));
+    text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, 0.795);
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+    margin: 1rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0.2rem 0.2rem 0.3rem black;
+    border-color: rgb(8, 233, 177);
+    border-style:inset;
+}
+body{
+    background-color: rgb(255, 252, 77);
+    background-image:url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.avif)
+}
+.tagline{
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ background-color: rgba(217, 235, 232, 0.589);
+ color: rgb(255, 123, 0);
+ padding:1rem;
+ border-radius: 0.6rem;
+ border-style: inset;
+ margin: auto;
+ width:fit-content;
+}
+.note{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgba(27, 255, 217, 0.308);
+    color: rgb(58, 9, 9);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    margin: auto;
+    width:fit-content;
+    box-shadow: 0rem 0.5rem 1rem rgb(247, 18, 18);
+    margin-top: 1rem;
+}
+.container{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgba(230, 50, 50, 0.753);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    box-shadow: 0rem 0.5rem 1rem rgb(247, 18, 18); 
+    display: flex;  
+    margin: auto;
+    width: fit-content;
+    padding-right: 3.4rem;
+    margin-top: 1rem;
+}
+.container:hover{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgba(248, 172, 85, 0.788);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    box-shadow: 0rem 0.5rem 1rem rgb(255, 255, 255); 
+    display: flex;  
+    margin: auto;
+    width: fit-content;
+    padding-right: 3.4rem;
+    margin-top: 1rem;
+}
+.feedback{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(0, 0, 0);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    box-shadow: 0rem 0.5rem 1rem rgb(255, 255, 255);
+    width: 40rem;
+    text-align: center;
+    font-weight:lighter;
+    font-size: 1rem;  
+    margin: auto;
+    display: flex;
+    color: aquamarine;
+    margin-top:1rem;
+}
+.thanks{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(0, 0, 0);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    box-shadow: 0rem 0.5rem 1rem rgb(255, 255, 255);
+
+    text-align: center;
+    font-weight:lighter;
+    font-size: 1rem;  
+    margin: auto;
+    display: flex;
+    color: aquamarine;
+    margin-top:1rem; 
+}
+.pic{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 251, 251);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    box-shadow: 0rem 0.5rem 1rem rgb(122, 15, 15);
+    width: fit-content;
+    text-align: center;
+    font-weight:lighter;
+    font-size: 1rem;  
+    margin: auto;
+    display: flex;
+    margin-top:1rem; 
+    text-decoration: none;
+}
+.links{
+    text-decoration: none;   
+}
+.links:hover{
+    text-decoration: none;
+}
+.box1{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(27, 255, 217);
+    color: rgb(6, 59, 61);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    border-color: aqua;
+    margin: auto;
+    box-shadow: 0rem 0.5rem 1rem rgb(253, 40, 40);
+    margin-top: 1rem; 
+    list-style: none;
+    text-align: center;
+    font-weight: bold;
+}
+.box1:hover{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(0, 29, 24);
+    color: rgb(255, 248, 248);
+    padding:1rem;
+    border-radius: 0.6rem;
+    border-style: inset;
+    margin: auto;
+    box-shadow: 0rem 0.5rem 1rem rgb(255, 255, 255);
+    margin-top: 1rem; 
+    list-style: none;
+    text-align: center;
+    font-weight: bold;
+}
+.crosswordTable{
+    background: linear-gradient(rgb(165, 29, 29),blue);
+    font-size: 3rem;
+    margin: auto;
+    color: white;
+    border-radius: 0.8rem;
+    padding:1rem;
+}
+.crosswordBody{
+    background-color: rgb(85, 13, 4);
+    text-align: center;
+}
+.crosswordData:hover{
+    background-color: rgb(255, 0, 0);
+    border-radius: 0.5rem;
+}
+.crosswordData{
+    border-radius: 0.5rem;
+}
+
+.crosswordRules{
+    color:rgb(111, 230, 220);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(rgba(95, 95, 196, 0.774),rgba(255, 78, 78, 0.623));
+    border-radius: 1rem;
+    padding:1rem;
+}
+.options{
+ color:aqua;
+ background-color: rgb(6, 43, 85);
+ margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+ border-radius: 1rem;
+ padding: 0.5rem;
+ box-shadow: 0.4rem 0.4rem 0.5rem red;
+}
+.options:hover{
+    color:rgb(0, 39, 39);
+    background-color: rgb(147, 197, 255);
+    margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    box-shadow: 0.4rem 0.4rem 0.5rem rgb(255, 255, 255);
+   }
+.optionList{
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: radial-gradient(rgb(79, 205, 236),rgba(92, 17, 17, 0.308));
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin: auto;
+    text-align: center;
+    width:fit-content;
+    font-size: 2rem;
+    box-shadow: 0.4rem -0.4rem 0.5rem rgb(255, 86, 86);
+}
+p{
+    font-size: 1.5rem;
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+    padding: 0.5rem;
+}
+.quizIntro{
+    color:rgba(255, 255, 255, 0.89);
+    background: radial-gradient(rgba(255, 103, 15, 0.267),rgba(255, 220, 21, 0.685));
+    text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, 0.795);
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+    margin: 1rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0.2rem 0.2rem 0.3rem black;
+    border-color: rgb(8, 233, 177);
+    border-style:inset;
+}
+.quizRules{
+    color:rgba(255, 255, 255, 0.89);
+    background: radial-gradient(rgba(161, 230, 97, 0.596),rgba(21, 255, 204, 0.507));
+    text-shadow: 0.3rem 0.2rem 0.3rem rgba(0, 0, 0, 0.795);
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+    margin: 1rem;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 0.2rem 0.2rem 0.3rem black;
+    border-color: rgb(8, 233, 177);
+    border-style:inset;
+}
+.entertainmentData{
+    background-color: rgb(0, 68, 0);
+    border-radius: 0.5rem;
+    box-shadow: 0.3rem 0.3rem 0.3rem blue;
+    color: rgb(0,68,0);
+    width:3rem;
+}
+.entertainmentData:hover{
+    background-color: rgb(0, 68, 0);
+    border-radius: 0.5rem;
+    box-shadow: 0.3rem 0.3rem 0.3rem blue;
+    color: rgb(167, 255, 167);
+}
+.entertainmentTable{
+    background: linear-gradient(rgb(18, 226, 209),rgb(85, 4, 122));
+    font-size: 3rem;
+    margin: auto;
+    border-radius: 0.8rem;
+    padding:1rem;
+}
+.entertainmentBody{
+    background-color: blue;
+    text-align: center;
+}
+.calData{
+    background-color: rgb(36, 161, 145);
+    border-radius: 0.5rem;
+    box-shadow: 0.3rem 0.3rem 0.3rem blue;
+    color: rgb(190, 255, 190);
+    width:2.5rem;
+}
+.calData:hover{
+    background-color: rgb(136, 255, 209);
+    border-radius: 0.5rem;
+    box-shadow: 0.3rem 0.3rem 0.3rem blue;
+    color: rgb(0, 0, 0);
+    width:2.5rem;
+}
+.calTable{
+    background: linear-gradient(rgb(18, 226, 209),rgb(85, 4, 122));
+    font-size: 3rem;
+    margin: auto;
+    border-bottom-left-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    padding:1.5rem; 
+
+}
+.calBody{
+    background-color: blue;
+    text-align: center;
+}
+.calDisplay{
+    background-color: black;
+    width:14rem;
+    margin: auto;
+    height:4rem;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    border-style: inset;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 2rem;
+}
+.homepg{
+    font: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: brown;
+    color: wheat;
+    border-radius: 0.3rem;
+    padding: 1rem;
+}
