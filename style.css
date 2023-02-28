@@ -11,10 +11,6 @@
     border-color: rgb(8, 233, 177);
     border-style:inset;
 }
-body{
-    background-color: rgb(255, 252, 77);
-    background-image:url(cool-geometric-triangular-figure-neon-laser-light-great-backgrounds-wallpapers_181624-9331.avif)
-}
 .tagline{
  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
  background-color: rgba(217, 235, 232, 0.589);
@@ -70,7 +66,6 @@ body{
     border-radius: 0.6rem;
     border-style: inset;
     box-shadow: 0rem 0.5rem 1rem rgb(255, 255, 255);
-    width: 40rem;
     text-align: center;
     font-weight:lighter;
     font-size: 1rem;  
@@ -306,4 +301,12 @@ p{
     color: wheat;
     border-radius: 0.3rem;
     padding: 1rem;
+}
+.sendButton{
+    background-color: black;
+    color: rgb(54, 255, 222);
+    margin: 1rem;
+    width: 6rem;
+    height: 2rem;
+    border-radius: 0.6rem;
 }
