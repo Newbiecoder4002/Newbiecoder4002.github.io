@@ -330,3 +330,6 @@ p{
     background-image: url(architect-hands-working-on-blueprint.jpg);
     background-size: 100% 100%;
 }
+audio{
+    display: none;
+}
