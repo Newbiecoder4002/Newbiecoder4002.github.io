@@ -310,3 +310,23 @@ p{
     height: 2rem;
     border-radius: 0.6rem;
 }
+.indexBg{
+    background-image: url(hobby.jpg);
+    background-size:cover;
+}
+.quizBg{
+    background-image: url(stairway-to-heaven-of-architecture.jpg);
+    background-size: 100% 100%;
+}
+.crosswordBg{
+    background-image: url(transport.jpg);
+    background-size: 100% 100%;
+}
+.entBg{
+    background-image: url(abstract.jpg);
+    background-size: 100% 100%;
+}
+.calcBg{
+    background-image: url(architect-hands-working-on-blueprint.jpg);
+    background-size: 100% 100%;
+}
